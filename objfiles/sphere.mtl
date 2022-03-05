@@ -1,0 +1,8 @@
+# Blender MTL File
+
+newmtl Material.001
+Kd 1.0 1.0 1.0
+map_Kd brickwork-texture.jpg
+map_Bump brickwork_normal-map.jpg
+
+
